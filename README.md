@@ -5,5 +5,6 @@ This is project 7 for the OpenAI/PythonAPI course - uses web scraping to gather 
 
 Notes:
 
-This is a simple example supporting two languages. It could be expanded to include other languages, and other specific sections of the newspaper.
+This is a simple example supporting two languages (French and Spanish). It could be expanded to include other languages, and other specific sections of the newspaper.
 
+Todo: Add a third language & Python files.
