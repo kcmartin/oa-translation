@@ -1,7 +1,7 @@
 # oa-translation
-Project 7 for OpenAI-PythonAPI course - Newspaper headline Translation 
+Project 8 for OpenAI-PythonAPI course - Newspaper headline Translation 
 
-This is project 7 for the OpenAI/PythonAPI course - uses web scraping to gather headlines from foreign language newspapers and translate to English using OpenAI
+This is project 8 for the OpenAI/PythonAPI course - uses web scraping to gather headlines from foreign language newspapers and translate to English using OpenAI
 
 Notes:
 
